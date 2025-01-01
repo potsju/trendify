@@ -1,4 +1,5 @@
 About
+Built for creators, used by creators.
 IOS app which generates the top trends based on user metrics and data and compiles it into viewable charts
 
 <img width="389" alt="image" src="https://github.com/user-attachments/assets/aefe80a7-e2ea-4dbc-9dc4-3b2fc0c5346a" />
